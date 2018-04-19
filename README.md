@@ -10,6 +10,11 @@
 + digital terrain model (DTM)
 + digital elevation model (DEM)
 
+## 2. Read page 115. and explain what is DTM by one to two sentences.
+
+## 3. Find a figure about DTM and descript it in English.
+
+
 
 
 
